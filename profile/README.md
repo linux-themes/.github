@@ -12,6 +12,8 @@
 
 ### 🖌️ To contriute please have a look at the [`TODO Roadmap`](https://github.com/orgs/linux-themes/projects/2) under the `Projects` tab in the menu above! 
 
+### Status: In Developemnt 🔨
+
 <!--
 **Here are some ideas to get you started:**
 🙋‍♀️ A short introduction - what is your organization all about?
