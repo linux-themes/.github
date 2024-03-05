@@ -1,4 +1,6 @@
-## Hi there 👋
+# Linux Themes
+
+### Hi there 👋
 
 🖌️ Linux Themes is currently looking for contributors and maintainers!
 
