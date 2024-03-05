@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Linux Themes is currently looking for contributors and maintainers!
+🖌️ Linux Themes is currently looking for contributors and maintainers!
 
-The goal of this project is to create a modern frontend for browsing, downloading, installing themes and configurations.
+📨 The goal of this project is to create a modern frontend for browsing, downloading, installing themes and configurations.
 
 ### Current Projects:
-- Website: Browse themes and configurations
-- Themes-Cli: Automatically install themes and configurations from git repositories
+- 🌐 Website: Browse themes and configurations
+- 📩 Themes-Cli: Automatically install themes and configurations from git repositories
 
 ### To contriute please have a look at the [`TODO Roadmap`](https://github.com/orgs/linux-themes/projects/2) under the `Projects` tab in the menu above!
 
