@@ -10,7 +10,7 @@
 - 🌐 Website: Browse themes and configurations
 - 📩 Themes-Cli: Automatically install themes and configurations from git repositories
 
-### To contriute please have a look at the [`TODO Roadmap`](https://github.com/orgs/linux-themes/projects/2) under the `Projects` tab in the menu above! 🖌️
+### 🖌️ To contriute please have a look at the [`TODO Roadmap`](https://github.com/orgs/linux-themes/projects/2) under the `Projects` tab in the menu above! 
 
 <!--
 **Here are some ideas to get you started:**
