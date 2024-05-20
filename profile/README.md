@@ -8,7 +8,7 @@
 
 ### Current Projects:
 - 🌐 Website: Browse themes and configurations
-- 📩 Themes-Cli: Automatically install themes and configurations from git repositories
+- 📩 Themes: Automatically install themes and configurations from git repositories
 
 ### Status: In Developemnt 🔨
 
