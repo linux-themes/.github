@@ -1,7 +1,5 @@
 # Linux Themes
 
-### Hi there 👋
-
 🖌️ Linux Themes is currently looking for contributors and maintainers!
 
 📨 The goal of this project is to create a modern frontend for browsing, downloading, installing themes and configurations.
